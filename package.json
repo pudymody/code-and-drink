@@ -1,0 +1,37 @@
+{
+  "name": "code-and-drink",
+  "version": "1.0.0",
+  "description": "A drinking game for js lovers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "bin" : {
+	"code-and-drink-server" : "./server.js",
+	"code-and-drink" : "./client.js"
+  },
+  "author": "Federico Scodelaro <federicoscodelaro@gmail.com> (http://pudymody.github.io/)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chokidar": "^1.4.3",
+    "eslint": "^2.2.0",
+    "ws": "^1.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pudymody/code-and-drink.git"
+  },
+  "keywords": [
+    "code",
+    "drink",
+    "programming",
+    "game",
+    "drinking"
+  ],
+  "bugs": {
+    "url": "https://github.com/pudymody/code-and-drink/issues"
+  },
+  "homepage": "https://github.com/pudymody/code-and-drink#readme"
+}
