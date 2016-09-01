@@ -15,4 +15,4 @@ Now every player, should start the client calling
 * *server-ip* the ip of the machine running the server.
 
 # More
-You can read more about the development in my [blog](http://pudymody.github.io/blog/2016-003-03-first-coding-drinking-game)
+You can read more about the development in my [blog](http://pudymody.github.io/blog/2016-03-03-first-coding-drinking-game)
